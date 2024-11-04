@@ -7,7 +7,7 @@
 #
 Name     : R-kit
 Version  : 0.0.19
-Release  : 8
+Release  : 9
 URL      : https://cran.r-project.org/src/contrib/kit_0.0.19.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/kit_0.0.19.tar.gz
 Summary  : Data Manipulation Functions Implemented in C
